@@ -29,4 +29,4 @@ USER 10014
 EXPOSE 30310
 
 # Set the entry point to the startup script
-ENTRYPOINT ["/bin/sh", "/evns/bootnode.sh"]
+ENTRYPOINT ["/bin/sh", "/envs/bootnode.sh"]
